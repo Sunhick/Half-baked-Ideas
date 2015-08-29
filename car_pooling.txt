@@ -1,6 +1,6 @@
 Idea :
 	Extension of blablacar to within cities.
-Currently blablacar a is aggregator service which offers city-to-city journeys.
+Currently blablacar is a aggregator service which offers city-to-city journeys.
 Why cant we have something like that within cities???????
 
 How it works?
