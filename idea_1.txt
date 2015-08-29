@@ -1,0 +1,21 @@
+Idea :
+	Extension of blablacar to within cities.
+Currently blablacar a is aggregator service which offers city-to-city journeys.
+Why cant we have something like that within cities???????
+
+How it works?
+
+Lets say 10 persons from one area "abc" are travelling daily to area "xyz" for work.
+They dont know each other and hence they travel alone in their own vehicles.
+Now lets say they have a platform where they all could do car pooling. Then they could think of using car pool.
+
+How do we achieve it?
+
+One guy who owns a car wants to share the expenses of his journey from "abc" to "xyz" posts an ad few hours before the departure
+mentioning all the details like "from", "to", "via path", "price", etc.
+Guys who lives across or on the same way could book a seat in that car and share the expenses.
+
+This concept has worked in 19-20 countries but its across cities.
+So why cant we have the same concept within city to reduce traffic and to help people do car pool in a better and efficient manner.
+
+-Suman
